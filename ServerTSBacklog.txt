@@ -1,0 +1,20 @@
+/**
+ * Principais Métodos HTTP
+ * GET - Busca
+ * Post - Criação
+ * Put -  Alteração
+ * Delete - Deletar
+ * Patch -Alterar informação específica
+ */
+/*
+//Rotas Get
+app.get("/", (request, response) => {
+    //Retorno dos dados substituir o parametro response.[nome do parametro]
+    //return response.send(" Hello NLW Aplication Node.JS") Return view
+    return response.json({ message: " Hello Aplication Node.js " });
+});
+//Rotas  Post
+app.post("/", (request, response) => {
+    return response.json({ message: "Usuario salvo com sucesso!" });
+});
+*/

@@ -1,0 +1,8 @@
+/*
+* Tipos de parametros
+* Routes Params -> Parametros de rotas = { http://localhost:3333/settings/1 }
+* 
+* Query Params -> Filtros e Buscas = { http://localhost:3333/settings/1?search=algumacoisa }
+*
+* Body Params -> Inserções dentro da requisição = { Passamos objetos dentro da requisição nesse caso um arquivo json }
+*/
